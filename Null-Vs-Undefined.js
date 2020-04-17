@@ -16,6 +16,16 @@
 // let age = [54, 76, 87, 56];
 // console.log(age[78]);
 
+function doSomething(x, y){
+
+    console.log(y);
+    
+    }
+    
+     
+    
+    doSomething(32);
+
 
 
 
