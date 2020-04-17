@@ -5,3 +5,4 @@ for (let i = 0; i < numbers.length; i++) {
     output.push(result);
 }
 console.log(output);
+
